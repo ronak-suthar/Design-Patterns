@@ -1,0 +1,17 @@
+{
+    "name": "ronak/duck",
+    "description": "Barista APp",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ronak Suthar",
+            "email": "ronakdj786@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "App\\" : "./src"
+        }
+    }
+}
