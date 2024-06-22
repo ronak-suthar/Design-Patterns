@@ -84,14 +84,13 @@ Design patterns are typical solutions to common problems in software design. Thi
 9. **Template Method Pattern**
    - Defines the skeleton of an algorithm in a method, deferring some steps to subclasses.
    - Lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.
-<!---
 10. **Iterator Pattern**
     - Provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
 
 11. **Composite Pattern**
     - Composes objects into tree structures to represent part-whole hierarchies.
-    - Lets clients treat individual objects and compositions of objects uniformly.
-
+    - Lets clients treat individual and compositions objects uniformly.
+<!---
 12. **State Pattern**
     - Allows an object to alter its behavior when its internal state changes.
     - The object will appear to change its class.
