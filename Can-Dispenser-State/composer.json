@@ -1,0 +1,17 @@
+{
+    "name": "ronak/can-dispenser",
+    "description": "Can Dispenser",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ronak Suthar",
+            "email": "ronakdj786@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "App\\" : "./src"
+        }
+    }
+}
